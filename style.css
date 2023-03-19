@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+}
+.sfondo{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    line-height: 30%;
+}
+
+.titolo{
+    color: #0F0;
+}
+
+.logo{
+    display: inline-block;
+    width: 140px;
+}
+.menu{
+    background-color: rgba(0, 255, 14, 1);
+    display: inline-block;
+    width: 700px;
+    padding: 1%;
+}
+
+.section{
+    margin-left: 3%;
+}
+
+.linea1,.linea2, .linea3{
+    display: inline-block;
+}
+
+.row1{
+    background-color: rgba(255, 138, 14, 1);
+    width: 250px;
+    border-radius: 3px;
+}
+.row2{
+    background-color:rgba(0, 255, 14, 1);
+    width: 450px;
+    border-radius: 3px; 
+}
+.row3{
+    background-color: rgba(255, 0, 86, 1);
+    width: 100px;
+    border-radius: 3px; 
+}
+
+.black-box{
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 3rem;
+    height: 560px;
+    width: 850px;
+    margin: auto;
+    border-radius: 10px;
+    align-content: center;
+    }
+
+ div, h3{
+        color: white;
+ } 
+
+ .nome, .address{
+    margin: 0%;
+    padding: 0%;
+ }
+
+ .nome2, .address2{
+    margin: 0%;
+    padding: 0%;
+ }
+
+ .nome3, .address3{
+    margin: 0%;
+    padding: 0%;
+ }
